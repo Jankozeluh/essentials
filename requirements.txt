@@ -1,0 +1,70 @@
+# Core Python utilities
+numpy
+pandas
+pyarrow
+polars
+
+# Data Engineering & Storage
+sqlalchemy
+psycopg2
+pymysql
+pydantic
+redis
+fastparquet
+pyyaml
+
+# Web APIs & Backend (FastAPI)
+fastapi
+uvicorn
+httpx
+gunicorn
+jinja2
+
+# Machine Learning & Analytics
+scikit-learn
+statsmodels
+matplotlib
+seaborn
+plotly
+dash
+mlflow
+
+# Data Processing & Big Data
+dask
+pyspark
+fugue
+
+# Async & Performance Optimization
+asyncio
+aiohttp
+orjson
+
+# Authentication & Security
+python-dotenv
+passlib
+pyjwt
+
+# Testing & Development
+pytest
+pytest-asyncio
+httpx
+black
+isort
+flake8
+
+# Jupyter & Notebooks
+jupyter
+ipython
+notebook
+ipywidgets
+
+# Web Scraping & Automation
+beautifulsoup4
+selenium
+scrapy
+
+# Knowledge Graph & NLP (optional but useful)
+networkx
+spacy
+transformers
+sentence-transformers
