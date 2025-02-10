@@ -5,7 +5,7 @@
 ## **1. Advanced Machine Learning & AI Concepts**
 
 ### **Deep Learning Architectures**
-~~ - **Convolutional Neural Networks (CNNs)**: Image/video processing, architectures like ResNet, EfficientNet. ~~
+~~ **Convolutional Neural Networks (CNNs)**: Image/video processing, architectures like ResNet, EfficientNet. ~~
 - **Recurrent Neural Networks (RNNs)/LSTMs**: Sequence modeling, time-series forecasting.
 - **Transformers**: Attention mechanism, GPT, BERT, ViTs (Vision Transformers).
 - **Diffusion Models**: Stable Diffusion, DALL-E, Imagen for generative AI.
