@@ -5,15 +5,15 @@
 ## **1. Advanced Machine Learning & AI Concepts**
 
 ### **Deep Learning Architectures**
-~~ **Convolutional Neural Networks (CNNs)**: Image/video processing, architectures like ResNet, EfficientNet. ~~
-~~ **Recurrent Neural Networks (RNNs)/LSTMs**: Sequence modeling, time-series forecasting. ~~
-~~ **Transformers**: Attention mechanism, GPT, BERT, ViTs (Vision Transformers) ~~
-~~ **Diffusion Models**: Stable Diffusion, DALL-E, Imagen for generative AI. ~~
+- ~~ **Convolutional Neural Networks (CNNs)**: Image/video processing, architectures like ResNet, EfficientNet. ~~
+- ~~ **Recurrent Neural Networks (RNNs)/LSTMs**: Sequence modeling, time-series forecasting. ~~
+- ~~ **Transformers**: Attention mechanism, GPT, BERT, ViTs (Vision Transformers) ~~
+- ~~ **Diffusion Models**: Stable Diffusion, DALL-E, Imagen for generative AI. ~~
 
 ### **Reinforcement Learning (RL)**
-~~ **Value-Based Methods**: Q-learning, Deep Q Networks (DQN). ~~
-- **Policy-Based Methods**: REINFORCE, A3C, PPO.
-- **Model-Based RL**: MuZero, AlphaZero, and applications in robotics, finance, and gaming.
+- ~~ **Value-Based Methods**: Q-learning, Deep Q Networks (DQN). ~~
+- ~~ **Policy-Based Methods**: REINFORCE, A3C, PPO. ~~
+- ~~ **Model-Based RL**: MuZero, AlphaZero, and applications in robotics, finance, and gaming. ~~
 
 ### **Optimization Techniques**
 - **Hyperparameter tuning**: Grid search, random search, Bayesian optimization, Optuna.
